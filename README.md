@@ -13,3 +13,7 @@ npm start
 ```
 
 keep it up :)
+
+### Quick Demo:
+
+[crud.webm](https://github.com/ayoubxmahmoud/CRUD_Dashboard_Node/assets/116462151/3988a7d1-e718-41a1-a86e-1459accf8fda)
